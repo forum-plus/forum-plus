@@ -1,0 +1,31 @@
+{
+  "name": "forum-plus",
+  "version": "0.0.1",
+  "description": "forum of future",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forum-plus/forum-plus.git"
+  },
+  "keywords": [
+    "forum-plus",
+    "forum",
+    "vue",
+    "nodejs",
+    "mongodb",
+    "koa"
+  ],
+  "author": {
+    "name": "ZHAO Xudong",
+    "email": "zxdong@gmail.com",
+    "url": "https://html5beta.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forum-plus/forum-plus/issues"
+  },
+  "homepage": "https://github.com/forum-plus/forum-plus#readme"
+}

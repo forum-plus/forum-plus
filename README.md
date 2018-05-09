@@ -13,6 +13,7 @@ forum of future
 - vue
 - typescript
 - nodejs
+- graghQL
 - mongodb 4(default), mysql, postgresSQL
 - pug
 - koa
